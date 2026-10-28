@@ -41,10 +41,9 @@
 
 <div align="left">
 <sub>moots / ppl i adore:</sub>
-<br>
-<sub>@GhoasTT · @Callmestarss · @ROTTCORE69</sub>
-<br>
   
+<sub>[@GhoasTT](https://github.com/GhoasTT) · [@Callmestarss](https://github.com/Callmestarss) · [@ROTTCORE69](https://github.com/rottcore69)</sub>
+<br>
 <sub> *int & u might get added to the wall <3*</sub> 
   <!-- @/user · @/user · @/user</sub> -->
 
