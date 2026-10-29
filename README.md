@@ -17,7 +17,7 @@
   
 <sub> &nbsp; ***˚₊‧꒰ა ray / lu / lunet  ໒꒱ ‧₊˚***</sub>
 <br>
-<sub>int · c+h · afk mostly · ˚ ᶻ𝗓𐰁</sub>
+<sub>int · c+h if moot · afk mostly · ˚ ᶻ𝗓𐰁</sub>
 <br><br>
 [ATABOOK](https://lunet.atabook.org) &nbsp; · &nbsp;
 [STRAWPAGE](https://lunet.straw.page) &nbsp; · &nbsp;
