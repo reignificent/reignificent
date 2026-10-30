@@ -76,7 +76,11 @@
 <sub> some of them have been gifted 2 me !!</sub>
 <br>
 <sub> thank u ♡</sub>
-</div>
+<p align="center">
+  <a href="https://hits.sh/github.com/reignificent/reignificent/">
+    <img src="https://hits.sh/github.com/reignificent/reignificent.svg?label=tek%20visitors&color=00807d&labelColor=8f0024" alt="Hits">
+  </a>
+</p>
 
 
 <div align="center">
@@ -121,19 +125,11 @@
 <sub></sub>
 </div>
 
-<div align="right">
+<div align="center">
 <img src="https://64.media.tumblr.com/d627282e11a827ff7d40ccb684fe262f/8ac7fe789dc65ee1-55/s400x600/91314797a3fadcc1e4c9508691c35c01e751dca8.pnj" width="55" alt="sticker foar">
 <br>
 <sub>i was here, and so were you !!⛧</sub>
 </div>
-
-<br>
-
-<p align="center">
-  <a href="https://hits.sh/github.com/reignificent/reignificent/">
-    <img src="https://hits.sh/github.com/reignificent/reignificent.svg?label=tek%20visitors&color=00807d&labelColor=8f0024" alt="Hits">
-  </a>
-</p>
 
 <br>
 
